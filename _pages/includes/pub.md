@@ -6,7 +6,7 @@
 # Papers Under Review 
 
 - [What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media](https://arxiv.org/abs/2305.13127v2). **Junwei Kuang**, Jiaheng Xie, Zhijun Yan*. Under review at **MIS Quarterly**
-- [Suicide Risk Prediction for Users with Depression in Question Answering Communities: A Design Based on Deep Learning](). Haoyue Fan, Qiuju Yin, **Junwei Kuang**, Zhijun Yan*. Under review at **Information&Management**
+- [Suicide Risk Prediction for Users with Depression in Question Answering Communities: A Design Based on Deep Learning](). Haoyue Fan, Qiuju Yin, **Junwei Kuang**, Zhijun Yan*. Under review at **Information Management**
 
 # Conference Proceedings and Workshops (* Presenting Author) 
 
