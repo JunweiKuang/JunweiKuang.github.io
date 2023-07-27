@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "e7nCCPkAAAAJ"
+  name             : "Junwei Kuang (邝俊伟)"
   avatar           : "images/jw_profile.jpeg"
   bio              : "Beijing Institute of Technology"
   location         : "Beijing"
@@ -135,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Beijing # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
