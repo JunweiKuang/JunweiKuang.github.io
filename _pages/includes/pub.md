@@ -1,7 +1,3 @@
-# Research Grants and Awards     
-
-- 2021: First-class award (￥8000), The 3-th National College Data-Driven Innovation Research Competition. Beijing, China.
-
 # Journal Publications 
 
 - Lun Li, Qiuju Yin*, Zhijun Yan, **Junwei Kuang**. (2022). [Monitoring Your Weight-Loss Process Online: The Impacts of Prior Experiences and Online Social Support on Subsequent Weight-Loss Outcome](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2073116). **Health Communication**, 1-11.

@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2019.06 - now*, PHD candidate, School of Management and Economics, Beijing Institute of Technology, Beijing, China.
+- *2019.06 - now*, Ph.D. candidate, School of Management and Economics, Beijing Institute of Technology, Beijing, China.
 - *2018.09 - 2019.06*, Master, School of Management and Economics, Beijing Institute of Technology, Beijing, China.
 - *2014.09 - 2018.06*, Undergraduate, School of Economics and Management, China University of Geosciences, Beijing, China.
 
