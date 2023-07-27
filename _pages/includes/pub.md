@@ -20,6 +20,6 @@
 - **Junwei Kuang**, Zhijun Yan* (2020). Leveraging doctor-patient interaction to improve expert recommendation in online health
   consultation. International Conference on Digital Health and Medical Analytics (**DHA**). Online.
 - **Junwei Kuang**, Lini Kuang, and Zhijun Yan* (2018). The Impact of Penetration Rate of Online Health Service on Service Quality and Price: Evidence from Online Health Communities. International Conference on Crowd Science and Engineering (**ICCSE**), Singapore, Singapore. (EI index)
-- **Junwei Kuang***, Hangzhou Yang, Junjiang Liu and Zhijun Yan* (2018). [Dynamic prediction of cardiovascular disease using improved LSTM](https://ieeexplore.ieee.org/abstract/document/9826648). Smart Pension and Smart Medical Development Forum. Nanjing, China.
+- **Junwei Kuang***, Hangzhou Yang, Junjiang Liu and Zhijun Yan (2018). [Dynamic prediction of cardiovascular disease using improved LSTM](https://ieeexplore.ieee.org/abstract/document/9826648). Smart Pension and Smart Medical Development Forum. Nanjing, China.
   - Excellent Paper Award
 
