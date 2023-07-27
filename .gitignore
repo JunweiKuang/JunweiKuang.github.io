@@ -1,4 +1,3 @@
 _site/
-.idea
-
-
+push.sh
+.DS_Store

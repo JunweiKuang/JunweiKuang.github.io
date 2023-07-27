@@ -1,61 +1,58 @@
 ---
 permalink: /
-title: "About me" #([Curriculum Vitae]())"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a PhD candidate at [McCombs School of Business](https://www.mccombs.utexas.edu/), [UT Austin](https://www.utexas.edu/). <br>
-I received my bachelor's degree in Statistics at [School of the Gifted Young](https://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](https://en.ustc.edu.cn/) and master's degree in Statistics at [Univerisity of Michigan](https://umich.edu/). <br>
-Ex-Intern at [HBS](https://www.hbs.edu/), [IBM Research](https://research.ibm.com), [Tencent](https://www.tencent.com/en-us/), and [Amazon](https://www.amazon.com).
 
-# Research
-My research interests include the broad area of robust machine learning, reinforcement learning (the specific area of contextual bandit), active learning and causal inference. Many of my research aim to answer these questions:
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-1. How to develop algorithms that can better utilize human expertise to enhance machine learning systems or aid human decisions?
-3. How to assess individual preference or algorithm performance in the presence of missing counterfactuals?
-4. How to build robust models with non-stationary environment?
+<span class='anchor' id='about-me'></span>
 
-# News 
-* Our paper [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) is accepted at [ICML, 2023](https://icml.cc/Conferences/2023/Dates)!
-* I will join [Netflix](https://www.netflix.com) as a machine learning research intern this summer! 
-* Our paper [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) is accepted at [AISTATS, 2023](http://aistats.org/aistats2023/) (Preliminary version accepted as Spotlight presentation at [ICML Distribution-Free Uncertainty Quantification, 2022](https://sites.google.com/berkeley.edu/dfuq-22/home))!
-* Two papers - Active Incentive Learning / [Robust Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2302.02944) (Best Student Paper, 1 out of ~200) are accepted at [CIST 2022](https://sites.google.com/view/cist2022/)!
-* Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) has been selected as a finalist for  PhD Incubator Special Recognition Award at [INFORMS Advances in Decision Analysis Conference](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2022-Advances-in-Decision-Analysis-Conference)!
-* Our paper [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) is accepted as Spotlight presentation at [Revenue Management and Pricing conference, 2022](https://www.chicagobooth.edu/events/revenue-management-and-pricing)!
-* I received [UT Austin Graduate School Fellowship](https://gradschool.utexas.edu/finances/fellowships/graduate-school/continuing-fellowships) for 2022-2023! 
-* Our paper [Counterfactual Self-Training](https://arxiv.org/abs/2112.04461) is accepted at [AAAI, 2022](https://aaai.org/Conferences/AAAI-22/)! (Acceptance Rate: 15%)
-* Our paper [AE-StyleGAN](https://arxiv.org/abs/2110.08718) is accepted at [WACV, 2022](https://wacv2022.thecvf.com/home)!
-* Our paper [P2GAN](https://arxiv.org/abs/2108.09016) is accepted at [ICCV, 2021](https://iccv2021.thecvf.com/home)!
-* Our paper [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) is accepted at [IJCAI, 2021](https://ijcai-21.org/)! (Acceptance Rate: 13.9%)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-# Preprint / Under Review 
-* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, W Sun, M Lease. [Learning Complementary Policies for Human-AI Teams](https://arxiv.org/abs/2302.02944) (Under review at Management Science, previous title: Robust Human-AI Collaboration with Bandit Feedback, **Best Student Paper** at CIST, 2022)
-* M Biggs*, **R Gao**\*, W Sun\* [Loss Functions for Discrete Contextual Pricing with Observational Data](https://arxiv.org/abs/2111.09933) (Under review at Operation Research, spotlight presentation at RMP 2022, special recognition award finalist at ADA 2022). 
-* **R Gao**, H Feng [Identifying Best Fair Intervention](https://arxiv.org/abs/2111.04272)
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-# Selected Publications
-* **R Gao**, H Lakkaraju. [On the Impact of Algorithmic Recourse on Social Segregation](https://openreview.net/forum?id=4JCKwAiRPX) (ICML, 2023)
-* Z Wang*, **R Gao**\*, M Yin\*, M Zhou, D Blei. [Probabilistic Conformal Prediction Using Conditional Random Samples](https://arxiv.org/abs/2206.06584) (AISTATS 2023, preliminary version accepted as spotlight presentation at ICML DFUQ, 2022)
-* **R Gao**, M Biggs, W Sun, and L Han. [Enhancing counterfactual classification performance via self-training](https://arxiv.org/abs/2112.04461) (AAAI 2022)
-* **R Gao**, M Saar-Tsechansky, M De-Arteaga, L Han, MK Lee, M Lease. [Human-AI Collaboration with Bandit Feedback](https://arxiv.org/abs/2105.10614) (IJCAI 2021)
-* **R Gao**, M Saar-Tsechansky. [Cost-accuracy aware adaptive labeling for active learning](https://ojs.aaai.org/index.php/AAAI/article/view/5640). (AAAI 2020)
-* L Han, **R Gao**, M Kim, X Tao, B Liu, D Metaxas. [Robust Conditional GAN from Uncertainty-Aware Pairwise Comparisons](https://ojs.aaai.org/index.php/AAAI/article/view/6723). (AAAI 2020)
-* L Han, Y Zou, **R Gao**, L Wang, D Metaxas. [Unsupervised domain adaptation via calibrating uncertainties](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Uncertainty%20and%20Robustness%20in%20Deep%20Visual%20Learning/Han_Unsupervised_Domain_Adaptation_via_Calibrating_Uncertainties_CVPRW_2019_paper.pdf). (CVPR Workshop 2019)
-* L Han, MR Min, A Stathopoulos, Y Tian, **R Gao**, A Kadav, D Metaxas. [Dual Projection Generative Adversarial Networks for Conditional Image Generation](https://arxiv.org/abs/2108.09016). (ICCV 2021)
 
-\* Equal Contribution
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# Working Paper 
-Manuscript will be shared upon request.
-* **R Gao**, M Saar-Tsechansky. Active Incentive Learning (Preliminary version accepted at CIST, 2022)
-* **R Gao**, M Yin. Confounding-Robust Policy Improvement with Human-AI Teams (Under Review)
-* J Cao*, **R Gao**\*, E Keyvanshokooh\*, Contextual Recourse Bandits: Optimizing Decisions through Counterfactual Explanations (Under Review)
+# 📝 Publications 
 
-# Professional Service
-Program Commitee Member and Reviewer for WITS 2023, ICIS 2023, NeurIPS 2023, FAccT 2023, AISTATS 2023, AAAI 2023/2024, WITS 2022, CIST 2022, WACV 2022, INFORMS Data Science Workshop, ICML workshops on Interactive Learning from Human Feedback, Generative AI + Law, Adversarial Machine Learning Frontiers, ML for Data, Human-Machine Collaboration and Teaming.. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!---Activity and Service--->
-<!---Experience--->
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
