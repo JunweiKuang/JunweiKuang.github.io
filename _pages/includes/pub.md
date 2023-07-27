@@ -1,7 +1,7 @@
 # Journal Publications 
 
 - Lun Li, Qiuju Yin*, Zhijun Yan, **Junwei Kuang**. [Monitoring Your Weight-Loss Process Online: The Impacts of Prior Experiences and Online Social Support on Subsequent Weight-Loss Outcome](https://www.tandfonline.com/doi/full/10.1080/10410236.2022.2073116). **Health Communication**, 2022, 1-11.
-- **Junwei Kuang**, Hangzhou Yang, Junjiang Liu and Zhijun Yan* (2019). [Dynamic prediction of cardiovascular disease using improved LSTM](https://ieeexplore.ieee.org/abstract/document/9826648). **International Journal of Crowd Science**, 2019, 3(1), 14-25.
+- **Junwei Kuang**, Hangzhou Yang, Junjiang Liu and Zhijun Yan*. [Dynamic prediction of cardiovascular disease using improved LSTM](https://ieeexplore.ieee.org/abstract/document/9826648). **International Journal of Crowd Science**, 2019, 3(1), 14-25.
 
 # Papers Under Review 
 
