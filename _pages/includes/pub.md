@@ -12,7 +12,7 @@
 
 - Haoyue Fan*, Qiuju Yin, **Junwei Kuang**, Zhijun Yan (2023). Suicide Risk Prediction for Users with Depression in Question Answering Communities: A Design Based on Deep Learning. Pacific Asia Conference on Information Systems (**PACIS**). Nanchang, China.
 - **Junwei Kuang***, Jiaheng Xie, Zhijun Yan (2023). What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media. China Summer Workshop on Information Management (**CSWIM**). Changsha, China.
--  **Junwei Kuang***, Jiaheng Xie, Zhijun Yan (2023). What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media. Conference on Health IT and Analytics (**CHITA**). Washington, D.C., USA.**
+-  **Junwei Kuang***, Jiaheng Xie, Zhijun Yan (2023). What Symptoms and How Long? An Interpretable AI Approach for Depression Detection in Social Media. Conference on Health IT and Analytics (**CHITA**). Washington, D.C., USA.
 - **Junwei Kuang**, Zhijun Yan* (2022). Multi-task expert recommendation in health Q&A community. China Association for Information Systems (**CNAIS**). Online.
 - **Junwei Kuang***, Zhijun Yan, Shiwei Sun (2022). [More User Engagement in Online Community: Effects of  Posting and Replying Behaviors on Detection of Depression](https://aisel.aisnet.org/pacis2022/137). Pacific Asia Conference on Information Systems (**PACIS**). Online.
 - **Junwei Kuang**, Zhijun Yan* (2021). Leveraging doctor-patient interaction to improve expert recommendation in online health
