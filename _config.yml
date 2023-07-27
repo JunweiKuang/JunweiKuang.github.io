@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junwei Kuang (邝俊伟)"
+title                    : "Junwei Kuang"
 description              : "Ph.D. candidate in Beijing Institute of Technology."
 repository               : "junweikuang/junweikuang.github.io"
 google_scholar_stats_use_cdn : true
