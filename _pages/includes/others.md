@@ -8,4 +8,4 @@
 - None
 
 # 💻 Academic Visit
-- *2022.10 - 2023.09*, Alfred Lerner College of Business & Economics, University of Delaware, DE, USA.
+- *2022.10 - 2023.09*, Alfred Lerner College of Business & Economics, University of Delaware, DE, USA. Supervisor: [Jiaheng Xie](https://lerner.udel.edu/faculty-staff-directory/Jiaheng-XIe/)
